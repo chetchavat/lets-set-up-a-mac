@@ -6,6 +6,10 @@
 - i don't know what this does: https://starship.rs
 - pls let me in: https://fig.io/
 
+## via homebrew
+- pyenv: https://github.com/pyenv/pyenv#basic-github-checkout
+- pyenv-virtualenv: https://github.com/pyenv/pyenv-virtualenv
+
 ## spotlight
 - i'll try this over alfred next time: https://raycast.com/
 
