@@ -3,7 +3,7 @@
 ## zsh
 - really pretty zsh: https://ohmyz.sh
 - homebrew: https://brew.sh 
-- i don't know what this does: https://starship.rs
+- prettier terminal, tells you what versions of things you're on: https://starship.rs
 - pls let me in: https://fig.io/
 
 ## via homebrew
