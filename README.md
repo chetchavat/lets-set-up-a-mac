@@ -15,3 +15,4 @@
 
 ## vscode
 - fairyfloss theme: https://marketplace.visualstudio.com/items?itemName=mintchipleaf.fairyfloss
+- witch hazel theme: https://witchhazel.thea.codes/
